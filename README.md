@@ -2,7 +2,7 @@
 This is an Express app to find friends, or even someone special you need in your life. Quick and easy, just fill out this survey and our matching algorithm will pair you with someone that has the closests answers to you!
 
 ## Link to deployed Github: https://github.com/skip1113/friend-finder
-## Link to deployed app on Heroku:
+## Link to deployed app on Heroku: https://hidden-chamber-83537.herokuapp.com/survey
 
 ### Instructions
 Click the link deployed to Heroku and find the survey button, take the survey and start matching!
