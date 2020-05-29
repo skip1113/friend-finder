@@ -1,0 +1,14 @@
+body {
+    background-image: url("https://image.freepik.com/free-vector/colorful-gradient-background_1159-7460.jpg");
+    background-position: 70% 40%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#list {
+    color: cornsilk;
+}
+.jumbotron {
+    padding-bottom: 28%;
+    /* background-color: rgba(238, 130, 238, 0.719); */
+    background-color: transparent;
+}
