@@ -14,6 +14,8 @@ Click the link deployed to Heroku and find the survey button, take the survey an
 * Run node server.js in your terminal 
 * Open your browser and search "http:/localhost:"PORT#"/
 
+![](/app/public/home-img.png)
+
 ### Organization:
 * Home/Survey.Html files
     * Home page with a link to take you to the survey
