@@ -209,7 +209,7 @@
       
       $("#submit").on("click", function (event) {
         event.preventDefault();
-        var valid = true;
+        let valid = true;
 
         if ($("#name").val() === "" || $("#photo").val() === "") {
           valid = false;
@@ -218,7 +218,7 @@
         }
 
         if (valid === true) {
-          var newUser = {
+          let newUser = {
             name: $("#name").val().trim(),
             photo: $("#photo").val().trim(),
             scores: [
@@ -235,7 +235,7 @@
             ]
           };
 
-          var currentURL = window.location.origin;
+          let currentURL = window.location.origin;
           //AJAX post the data to the friends API
           $.post("/api/friends", newUser, function (data) {
 
