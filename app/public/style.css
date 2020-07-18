@@ -12,3 +12,10 @@ body {
     /* background-color: rgba(238, 130, 238, 0.719); */
     background-color: transparent;
 }
+#jumbo-home {
+    padding-bottom: 5%;
+}
+#submit {
+    background-color: darkcyan;
+    color: white;
+}
